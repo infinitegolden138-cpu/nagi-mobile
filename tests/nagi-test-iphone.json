@@ -1,0 +1,17 @@
+{
+  "schema": "nagi.memory.v1",
+  "identity": {
+    "name": "Nagi"
+  },
+  "knowledge": [
+    {
+      "id": "nagi-test-lune-284-20261106",
+      "topic": "Clé fictive test synchronisation",
+      "content": "La clé fictive du test de synchronisation est LUNE-284.",
+      "created_at": "2026-11-06T10:00:00Z",
+      "updated_at": "2026-11-06T10:00:00Z",
+      "source": "test-fictif"
+    }
+  ],
+  "messages": []
+}
